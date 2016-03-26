@@ -1,4 +1,4 @@
-FROM centos/ruby-22-centos7
+FROM cloudgear/ruby:2.2
 USER default
 EXPOSE 8080
 
